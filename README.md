@@ -6,4 +6,6 @@ Most of our info is available at [we-are-ols.org](http://we-are-ols.org), especi
 
 Looking for any of these? 
 - 💬 Comment or PR on our website? Visit [the website repo](https://github.com/open-life-science/open-life-science.github.io).
-- 📊 Stats, graphs, and maps about the OLS Open Seeds cohorts? [OLS-stats](https://github.com/open-life-science/ols-stats) is for you. 
+- 📊 Stats, graphs, and maps about the OLS Open Seeds cohorts? [OLS-stats](https://github.com/open-life-science/ols-stats) is for you.
+- Looking for our delightful logos? [You want our branding repo](https://github.com/open-life-science/branding) :)
+- Open Science training videos? [OLS's YouTube Channel](https://www.youtube.com/c/OpenLifeSci/) has it all. 
