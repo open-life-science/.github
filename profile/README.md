@@ -2,6 +2,8 @@
 
 OLS is a not-for profit organisation dedicated to capacity building and diversifying leadership in research worldwide. We imagine a future where research is accessible, inclusive, and equitable for everyone.
 
+**Not sure where to get started?** Our biggest program and core mission is [🌱Open Seeds](https://we-are-ols.org/openseeds/). 
+
 Most of our info is available at [we-are-ols.org](http://we-are-ols.org), especially [🌱Open Seeds](https://we-are-ols.org/openseeds/), our flagship 16-week open mentoring and training program, and [🚀 Nebula](https://we-are-ols.org/nebula/), our NASA Open Science 101 training program. 
 
 Looking for any of these? 
